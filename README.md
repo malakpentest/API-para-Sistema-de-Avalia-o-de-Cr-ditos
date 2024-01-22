@@ -46,9 +46,13 @@ https://pt.wikipedia.org/wiki/CRUD
 https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repository-query-keywords
 https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.at-query
 https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#glossary
-Autor
 
-Fernando Lage Novaes
+- Autor
+Camila Cavalcante
+Feito com ❤️ por Cami-la
+
+- Usando mateerial de estudo
+- Fernando Lage Novaes
 
 
 Contribuindo
